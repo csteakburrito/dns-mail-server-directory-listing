@@ -1,5 +1,5 @@
-# mail-server-directory
-Legacy website created for tracking public mail servers.
+# dns-mail-server-directory-listing
+Legacy website created for tracking public mail and dns servers.
 
 ## License
 MIT
