@@ -1,6 +1,8 @@
 # dns-mail-server-directory-listing
 Legacy website created for tracking public mail and dns servers.
 
+Last Updated: 2012-06-30
+
 ## License
 MIT
 
